@@ -1,0 +1,15 @@
+{
+    "expenses": [
+        {
+            "categoryName": "Food",
+            "totalSpending": 15,
+            "purchases": [
+                {"name": "Coffee", "cost": 5, "date": "01/08/23"},
+                {"name": "Sandwich", "cost": 10, "date": "01/08/23"}
+            ]
+        }
+    ],
+    "savings": [
+        {"name": "Vacation", "amountSaved": 200}
+    ]
+}

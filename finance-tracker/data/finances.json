@@ -1,0 +1,69 @@
+{
+    "savings": [
+        {
+            "name": "car",
+            "amountSaved": 5000
+        },
+        {
+            "name": "house",
+            "amountSaved": 10000
+        }
+    ],
+    "expenses": [
+        {
+            "totalSpending": 14,
+            "purchases": [
+                {
+                    "date": "01/01/25",
+                    "cost": 5,
+                    "name": "sandwich"
+                },
+                {
+                    "date": "02/02/24",
+                    "cost": 3,
+                    "name": "chips"
+                },
+                {
+                    "date": "03/03/23",
+                    "cost": 6,
+                    "name": "coffee"
+                }
+            ],
+            "categoryName": "food"
+        },
+        {
+            "totalSpending": 90,
+            "purchases": [
+                {
+                    "date": "01/01/25",
+                    "cost": 70,
+                    "name": "shoes"
+                },
+                {
+                    "date": "02/02/24",
+                    "cost": 20,
+                    "name": "hat"
+                }
+            ],
+            "categoryName": "clothes"
+        },
+        {
+            "totalSpending": 50,
+            "purchases": [{
+                "date": "01/01/25",
+                "cost": 50,
+                "name": "lights"
+            }],
+            "categoryName": "utilities"
+        },
+        {
+            "totalSpending": 100,
+            "purchases": [{
+                "date": "01/01/25",
+                "cost": 100,
+                "name": "textbook"
+            }],
+            "categoryName": "school"
+        }
+    ]
+}
